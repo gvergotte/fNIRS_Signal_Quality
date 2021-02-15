@@ -1,0 +1,7 @@
+resting.nirs is the base file captured with CW
+
+
+_ds: is the same file but subsampled to half and with a simulated stim vector
+_sim: added HRF at the stim locations
+_sim_20: same as previous but the HRF is reduced to 20% amplitude
+_sim_50: HRF is reduced to 50% amplitude
